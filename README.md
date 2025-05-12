@@ -30,8 +30,8 @@ Metal
 - 💬 Ask me about **OpenGL, WebGL**
 
 💌 How to reach me
-✉️ **jagadalepratik54@gmail.com**
-💼 [LinkedIn](https://www.linkedin.com/in/pratik-jagadale-1139b41ba/)
+- ✉️ **jagadalepratik54@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/pratik-jagadale-1139b41ba/)
 
 - 📫 How to reach me **jagadalepratik54@gmail.com**
   
