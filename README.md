@@ -33,7 +33,6 @@ Metal
 - ✉️ **jagadalepratik54@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/pratik-jagadale-1139b41ba/)
 
-- 📫 How to reach me **jagadalepratik54@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
